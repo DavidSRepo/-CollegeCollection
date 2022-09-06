@@ -1,0 +1,34 @@
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.exe.config
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.exe
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.pdb
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.xml
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.vbprojResolveAssemblyReference.cache
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.Form1.resources
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.Resources.resources
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.vbproj.GenerateResource.Cache
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.exe
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.xml
+E:\Computer Science Shenanigans\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.exe
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.xml
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.vbprojResolveAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\obj\Debug\DJSCh3AddingDemo.vbproj.GenerateResource.Cache
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.exe
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\DJSCh3AddingDemo\bin\Debug\DJSCh3AddingDemo.xml
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\bin\Debug\DJSCh3AddingDemo.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.exe
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.xml
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.vbprojResolveAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\obj\Debug\DJSCh3AddingDemo.vbproj.GenerateResource.Cache
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\bin\Debug\DJSCh3AddingDemo.exe
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\bin\Debug\DJSCh3AddingDemo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\bin\Debug\DJSCh3AddingDemo.xml
+E:\Computer Science Shenanigans\Visual Basic Class\DJSStringArray\bin\Debug\DJSStringArray.exe.config
