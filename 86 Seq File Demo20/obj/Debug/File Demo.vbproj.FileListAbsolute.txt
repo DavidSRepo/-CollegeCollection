@@ -1,0 +1,128 @@
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\File Demo.exe
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\File Demo.xml
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\File Demo.pdb
+D:\sovb4\examples\Chap9\File Demo\bin\File Demo.exe
+D:\sovb4\examples\Chap9\File Demo\bin\File Demo.pdb
+D:\sovb4\examples\Chap9\File Demo\bin\File Demo.xml
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\ResolveAssemblyReference.cache
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\File_Demo.Form1.resources
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\File_Demo.Resources.resources
+D:\sovb4\examples\Chap9\File Demo\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Tony\My Documents\Books\SowVB 4th Edition\Source Code (Revised)\examples\Chap9\File Demo\obj\Debug\File Demo.exe
+C:\Documents and Settings\Tony\My Documents\Books\SowVB 4th Edition\Source Code (Revised)\examples\Chap9\File Demo\obj\Debug\File Demo.xml
+C:\Documents and Settings\Tony\My Documents\Books\SowVB 4th Edition\Source Code (Revised)\examples\Chap9\File Demo\obj\Debug\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS211 VB\VB.NET DEMOS 2008\File Demo messing8\obj\Debug\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS211 VB\VB.NET DEMOS 2008\File Demo messing8\obj\Debug\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS211 VB\VB.NET DEMOS 2008\File Demo messing8\obj\Debug\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\bin\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\bin\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\bin\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\File_Demo.Form1.resources
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\File_Demo.Resources.resources
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\Seq File Demo8\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\bin\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\bin\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\bin\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\File_Demo.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\File_Demo.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\84 Seq File Demo8\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\bin\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\bin\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\bin\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\File_Demo.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\File_Demo.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\86 Seq File Demo11\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\bin\File Demo.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\bin\File Demo.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\bin\File Demo.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\File_Demo.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\File_Demo.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo11\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\obj\Debug\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\obj\Debug\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\obj\Debug\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\obj\Debug\File_Demo.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\obj\Debug\File_Demo.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\bin\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\bin\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo13\bin\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\obj\Debug\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\obj\Debug\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\obj\Debug\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\bin\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\bin\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\bin\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\obj\Debug\File_Demo.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\obj\Debug\File_Demo.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo16\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\bin\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\bin\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\bin\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File_Demo.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File_Demo.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\bin\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\bin\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\bin\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File_Demo.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File_Demo.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo17\obj\Debug\File Demo.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\bin\File Demo.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\bin\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\bin\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\bin\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File Demo.vbprojAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File_Demo.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File_Demo.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File Demo.vbproj.GenerateResource.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\86 Seq File Demo19\obj\Debug\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\bin\File Demo.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\bin\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\bin\File Demo.pdb
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\bin\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File Demo.vbprojAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File_Demo.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File_Demo.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File Demo.vbproj.GenerateResource.cache
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File Demo.exe
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File Demo.xml
+C:\Users\slemery\Documents\CSS212 VB II\12a Scrollbar and Seq Files\86 Seq File Demo20\obj\Debug\File Demo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\bin\File Demo.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\bin\File Demo.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\bin\File Demo.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\bin\File Demo.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File Demo.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File_Demo.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File_Demo.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File Demo.vbproj.GenerateResource.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File Demo.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File Demo.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\86 Seq File Demo20\obj\Debug\File Demo.pdb
