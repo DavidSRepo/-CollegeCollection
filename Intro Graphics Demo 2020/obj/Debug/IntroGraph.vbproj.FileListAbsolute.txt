@@ -1,0 +1,40 @@
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\obj\Debug\IntroGraph.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Graphics PlayGround 2017\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\obj\Debug\IntroGraph.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2017\obj\Debug\IntroGraph.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch77 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\bin\Project1.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\IntroGraph.vbprojAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\IntroGraph.vbproj.GenerateResource.cache
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\33 Graphics and Animation\Intro Graphics Demo 2018\obj\Debug\Project1.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\bin\Project1.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\bin\Project1.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\bin\Project1.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\bin\Project1.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\obj\Debug\IntroGraph.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\obj\Debug\Project1.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\obj\Debug\IntroGraph.vbproj.GenerateResource.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\obj\Debug\Project1.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\obj\Debug\Project1.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\Intro Graphics Demo 2020\obj\Debug\Project1.pdb
