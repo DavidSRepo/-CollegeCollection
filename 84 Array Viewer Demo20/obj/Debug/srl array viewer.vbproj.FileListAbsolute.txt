@@ -1,0 +1,84 @@
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\bin\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\bin\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\bin\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\srl_array_viewer.Form1.resources
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\srl_array_viewer.Resources.resources
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\srl array viewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\Local Settings\Application Data\Temporary Projects\srl array viewer\obj\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\srl array viewer\obj\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\srl array viewer\obj\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\My Documents\Visual Studio 2008\Projects\srl array viewer\obj\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\bin\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\bin\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\bin\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\srl_array_viewer.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\srl_array_viewer.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\85 Array Viewer Demo9\obj\Debug\srl array viewer.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\bin\Debug\srl array viewer.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\bin\Debug\srl array viewer.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\bin\Debug\srl array viewer.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\srl_array_viewer.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\srl_array_viewer.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo11\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\obj\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\obj\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\obj\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\bin\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\bin\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\bin\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\obj\Debug\srl_array_viewer.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\obj\Debug\srl_array_viewer.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo13\obj\Debug\srl array viewer.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\obj\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\obj\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\obj\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\bin\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\bin\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\bin\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\obj\Debug\srl_array_viewer.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\obj\Debug\srl_array_viewer.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo16\obj\Debug\srl array viewer.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl_array_viewer.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl_array_viewer.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl_array_viewer.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl_array_viewer.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\bin\Debug\srl array viewer.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\84 Array Viewer Demo17\obj\Debug\srl array viewer.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\bin\Debug\srl array viewer.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\bin\Debug\srl array viewer.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\bin\Debug\srl array viewer.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\bin\Debug\srl array viewer.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl array viewer.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl_array_viewer.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl_array_viewer.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl array viewer.vbproj.GenerateResource.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl array viewer.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl array viewer.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\84 Array Viewer Demo20\obj\Debug\srl array viewer.pdb
