@@ -1,0 +1,96 @@
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\bin\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\bin\Project1.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\bin\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\Project1.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\MoveEasyProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\Project1.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy9\Project1.NET\obj\Debug\Project1.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\Project1.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\bin\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\bin\Project1.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\bin\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\Project1.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\Project1.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\VB II Demos 2009 .net\Move Easy Demo9\obj\Debug\MoveEasyProject.vbproj.GenerateResource.Cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\Project1.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\bin\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\bin\Project1.pdb
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\bin\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\Project1.Form1.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\Project1.Resources.resources
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\GenerateResource-ResGen.read.4.tlog
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo9\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.exe
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.xml
+C:\Documents and Settings\slemery\My Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\Project1.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\obj\Debug\MoveEasyProject.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo13\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\MoveEasyProject.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\Project1.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16\obj\Debug\MoveEasyProject.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\MoveEasyProject.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\Project1.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo16 - Copy\obj\Debug\MoveEasyProject.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\MoveEasyProject.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12 Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\MoveEasyProject.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.pdb
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\bin\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\MoveEasyProject.vbprojAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\MoveEasyProject.vbproj.GenerateResource.cache
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.exe
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.xml
+C:\Users\slemery\Documents\CSS212 VB II\Ch12a Scrollbar and Seq Files\82 Move Easy Demo18\obj\Debug\Project1.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\bin\Project1.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\bin\Project1.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\bin\Project1.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\bin\Project1.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\MoveEasyProject.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\Project1.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\Project1.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\MoveEasyProject.vbproj.GenerateResource.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\Project1.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\Project1.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\82 Move Easy Demo20\obj\Debug\Project1.pdb
