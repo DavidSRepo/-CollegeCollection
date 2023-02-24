@@ -1,0 +1,11 @@
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\bin\Debug\djsLinkedList.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\bin\Debug\djsLinkedList.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\bin\Debug\djsLinkedList.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\bin\Debug\djsLinkedList.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.vbproj.GenerateResource.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\djsLinkedList\djsLinkedList\obj\Debug\djsLinkedList.pdb
