@@ -1,0 +1,44 @@
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\bin\Debug\StudentViewer2.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\bin\Debug\StudentViewer2.exe
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\bin\Debug\StudentViewer2.pdb
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\bin\Debug\StudentViewer2.xml
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.exe
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.xml
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2 - Copy\obj\Debug\StudentViewer2.pdb
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.exe
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.xml
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.pdb
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.exe
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.pdb
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.xml
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.vbprojResolveAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.vbproj.GenerateResource.Cache
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.exe.config
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.exe
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.pdb
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\bin\Debug\StudentViewer2.xml
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.vbprojAssemblyReference.cache
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.Form1.resources
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.Resources.resources
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.vbproj.GenerateResource.cache
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.exe
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.xml
+C:\Users\slemery\Documents\CSS212 VB II\12c pgm StudentViewer1 and 2 and files\abcStudentViewer2\obj\Debug\StudentViewer2.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\bin\Debug\StudentViewer2.exe.config
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\bin\Debug\StudentViewer2.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\bin\Debug\StudentViewer2.pdb
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\bin\Debug\StudentViewer2.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.vbprojAssemblyReference.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.Form1.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.Resources.resources
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.vbproj.GenerateResource.cache
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.exe
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.xml
+E:\Computer Science Shenanigans\Visual Basic Class\Part 2\abcStudentViewer2\obj\Debug\StudentViewer2.pdb
